@@ -8,7 +8,7 @@ class AppRoutes{
   static const initialRoute = 'home';
 
   static final menuOptions = <MenuOption>[
-    MenuOption(route: 'details', name: 'ListView tipo 1', screen: const DetailsScreen(), icon: Icons.list),
+    MenuOption(route: 'details', name: 'details', screen: const DetailsScreen(), icon: Icons.list),
   ];
 
 
