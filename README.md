@@ -2,6 +2,8 @@
 
 ![Alt Text](./example/example.gif "App example")
 
+Agradecimiento a los cursos de Fernando Herrera❤.
+
 A new Flutter project.
 
 ## Getting Started
