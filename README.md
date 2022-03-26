@@ -1,5 +1,7 @@
 # peliculas
 
+![Alt Text](./example/example.gif "App example")
+
 A new Flutter project.
 
 ## Getting Started
