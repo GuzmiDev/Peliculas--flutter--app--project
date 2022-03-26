@@ -1,4 +1,4 @@
-# peliculas
+# Peliculas
 
 ![Alt Text](./example/example.gif "App example")
 
